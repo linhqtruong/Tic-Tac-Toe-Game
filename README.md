@@ -1,5 +1,9 @@
 # Tic Tac Toe by React
-with AI-Minimax recursive algorithm
+1) using AI-Minimax recursive algorithm to find the best-next-move
+2) using React Frame work
+3) using animations and vector graphic
+4) Mobile-friendly design
+5) Progressive web app with offline support
 
 [Live Demo:](http://TicTacToe.LinhTruong.com) [http://TicTacToe.LinhTruong.com](http://TicTacToe.LinhTruong.com)
 
