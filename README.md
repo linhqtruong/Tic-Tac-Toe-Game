@@ -1,6 +1,5 @@
 # Tic Tac Toe by React
 with AI-Minimax recursive algorithm
-Live Demo: TicTacToe.LinhTruong.com
 
 [Live Demo:](http://TicTacToe.LinhTruong.com) [http://TicTacToe.LinhTruong.com](http://TicTacToe.LinhTruong.com)
 
