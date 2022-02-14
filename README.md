@@ -2,7 +2,8 @@
 with AI-Minimax recursive algorithm
 Live Demo: TicTacToe.LinhTruong.com
 
-[Live Demo:](http://TicTacToe.LinhTruong.com)
+[Live Demo:](http://TicTacToe.LinhTruong.com) [http://TicTacToe.LinhTruong.com](http://TicTacToe.LinhTruong.com)
+
 
 ![react-tic-tac-toe](https://github.com/linhqtruong/Tic-Tac-Toe-Game/blob/main/preview.png)
 
